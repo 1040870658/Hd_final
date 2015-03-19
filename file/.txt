@@ -1,0 +1,12 @@
+
+diskmgmt.msc
+VBoxManage internalcommands createrawvmdk -filename e:\usb.vmdk -rawdisk\\.\PhysicalDrive1
+
+windows编程设计
+java2项目
+大数乘法类
+广搜深搜
+
+
+WM_SIZE:lparam
+WM_TIMER:wparm timer ID
